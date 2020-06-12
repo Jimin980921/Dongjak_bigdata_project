@@ -16,13 +16,13 @@
 #### 3 단계: 빅데이터 전처리 및 정리
 #### 문화유산지주변 [음식점, 숙박, 대중교통, 공원, 술집 등] 크롤링결과를 전처리(null값 삭제, duplicate값 삭제 등) 후,갯수를 count한다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84518088-1eba6900-ad0b-11ea-83be-06197dbd589b.JPG" width="200" height="350">
+<img src="https://user-images.githubusercontent.com/57060127/84518088-1eba6900-ad0b-11ea-83be-06197dbd589b.JPG" width="100" height="200">
 </p>
 
 #### 4 단계: 빅데이터 분석
 #### 주변 부흥 요인 총 10가지(공원,관광명소,교통,쇼핑,술집,음식점 등)와 리뷰와의 관계를 다중 선형회귀분석을 진행한다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="450" height="300">
+<img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="300" height="200">
 </p>
 #### 이전에 상위 10%에 해당하는 문화유산지의 data를 이용해 리뷰와 각 부흥요인의 상관관계 분석을 진행한다. 그 결과 [공원, 화장실]은 상관계수값이 낮아 회귀분석 특징에서 제거한다.
 
