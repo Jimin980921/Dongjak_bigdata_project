@@ -4,12 +4,13 @@
 
 #### 1 단계: '대한민국 구석구석 관광지'목록 크롤링(인기순으로 정렬 후, 상위 1000곳 저장)
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width="300" height="350">
 </p>
 
 #### 2 단계: 문화유산지명+'주변'+ [음식점, 숙박, 대중교통, 공원, 술집 등] 자동 검색 ('주변'의 기준은 반경 2km이내)
-####        해당 문화유산지의 리뷰수와 [음식점, 숙박, 대중교통, 공원, 술집 등] 각각의 이름을 크롤링
-<img src="https://user-images.githubusercontent.com/57060127/84516870-617b4180-ad09-11ea-83a3-76ed008f1de7.JPG" width="300" height="400">
+#### 해당 문화유산지의 리뷰수와 [음식점, 숙박, 대중교통, 공원, 술집 등] 각각의 이름을 크롤링
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/57060127/84516870-617b4180-ad09-11ea-83a3-76ed008f1de7.JPG" width="300" height="350">
 </p>
 
 ><data: 데이터>
