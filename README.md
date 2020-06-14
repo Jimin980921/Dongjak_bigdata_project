@@ -5,7 +5,7 @@
 
 #### 1 단계: '대한민국 구석구석 관광지'목록 크롤링(인기순으로 정렬 후, 상위 1000곳 저장) 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width="400" height="350">
+<img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width="350" height="350">
 </p>
 
 #### 2 단계: 문화유산지명+'주변'+ [음식점, 숙박, 대중교통, 공원, 술집 등] 자동 검색 ('주변'의 기준은 반경 2km이내)   
@@ -37,7 +37,7 @@
 #### 5 단계: 동작구 주변요소와 빅데이터분석결과와 비교
 #### 활성화에 영향을 미치는 주변 3가지요소[교통,숙소,리뷰]의 갯수를 비교한 결과, 전체적으로 교통 편의성은 상위 문화유산지의 평균치이지만, 숙박시설의 보충이 필요하고, 술집의 갯수는 3배이상이므로 단속이 필요하다는 결론이 나왔다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84519526-32ff6580-ad0d-11ea-869d-5a040d39ac32.JPG" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/57060127/84519526-32ff6580-ad0d-11ea-869d-5a040d39ac32.JPG" width="350" height="150">
 </p>
 
 
