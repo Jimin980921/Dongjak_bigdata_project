@@ -17,7 +17,7 @@
 #### 3 단계: 빅데이터 전처리 및 정리
 #### 문화유산지주변 [음식점, 숙박, 대중교통, 공원, 술집 등] 크롤링결과를 전처리(null값 삭제, duplicate값 삭제 등) 후,갯수를 count한다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84596101-b7312480-ae96-11ea-9ff9-f5c50aa6965f.JPG" width="200" height="350">
+<img src="https://user-images.githubusercontent.com/57060127/84596101-b7312480-ae96-11ea-9ff9-f5c50aa6965f.JPG" width="300" height="350">
 </p>
 
 #### 4 단계: 빅데이터 분석
