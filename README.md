@@ -23,21 +23,21 @@
 #### 4 단계: 빅데이터 분석
 #### 주변 부흥 요인 총 10가지(공원,관광명소,교통,쇼핑,술집,음식점 등)와 리뷰와의 관계를 다중 선형회귀분석을 진행한다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="600" height="450">
+<img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="750" height="350">
 </p>
 
 #### 이전에 상위 10%에 해당하는 문화유산지의 data를 이용해 리뷰와 각 부흥요인의 상관관계 분석을 진행한다. 그 결과 [공원, 화장실]은 상관계수값이 낮아 회귀분석 특징에서 제거한다.
 #### 상관계수값이 낮은 특징을 제거하고 회귀분석을 진행한 결과, p-value값이 낮은 요소는 [교통,숙소,술집]으로 나타났다.
 #### 교통과 숙소가 리뷰와 양의 관계, 술집과는 음의 관계를 보였다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84519277-d603af80-ad0c-11ea-9afe-016623223b96.JPG" width="350" height="100">
+<img src="https://user-images.githubusercontent.com/57060127/84519277-d603af80-ad0c-11ea-9afe-016623223b96.JPG" width="750" height="300">
 </p>
 
 
 #### 5 단계: 동작구 주변요소와 빅데이터분석결과와 비교
 #### 활성화에 영향을 미치는 주변 3가지요소[교통,숙소,리뷰]의 갯수를 비교한 결과, 전체적으로 교통 편의성은 상위 문화유산지의 평균치이지만, 숙박시설의 보충이 필요하고, 술집의 갯수는 3배이상이므로 단속이 필요하다는 결론이 나왔다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84519526-32ff6580-ad0d-11ea-869d-5a040d39ac32.JPG" width="350" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/84519526-32ff6580-ad0d-11ea-869d-5a040d39ac32.JPG" width="450" height="100">
 </p>
 
 
