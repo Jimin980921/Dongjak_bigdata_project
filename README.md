@@ -17,20 +17,20 @@
 #### 3 단계: 빅데이터 전처리 및 정리
 #### 문화유산지주변 [음식점, 숙박, 대중교통, 공원, 술집 등] 크롤링결과를 전처리(null값 삭제, duplicate값 삭제 등) 후,갯수를 count한다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84596101-b7312480-ae96-11ea-9ff9-f5c50aa6965f.JPG" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/57060127/84596101-b7312480-ae96-11ea-9ff9-f5c50aa6965f.JPG" width="750" height="500">
 </p>
 
 #### 4 단계: 빅데이터 분석
 #### 주변 부흥 요인 총 10가지(공원,관광명소,교통,쇼핑,술집,음식점 등)와 리뷰와의 관계를 다중 선형회귀분석을 진행한다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="600" height="450">
 </p>
 
 #### 이전에 상위 10%에 해당하는 문화유산지의 data를 이용해 리뷰와 각 부흥요인의 상관관계 분석을 진행한다. 그 결과 [공원, 화장실]은 상관계수값이 낮아 회귀분석 특징에서 제거한다.
 #### 상관계수값이 낮은 특징을 제거하고 회귀분석을 진행한 결과, p-value값이 낮은 요소는 [교통,숙소,술집]으로 나타났다.
 #### 교통과 숙소가 리뷰와 양의 관계, 술집과는 음의 관계를 보였다.
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84519277-d603af80-ad0c-11ea-9afe-016623223b96.JPG" width="450" height="200">
+<img src="https://user-images.githubusercontent.com/57060127/84519277-d603af80-ad0c-11ea-9afe-016623223b96.JPG" width="350" height="100">
 </p>
 
 
