@@ -20,8 +20,8 @@
 <img src="https://user-images.githubusercontent.com/57060127/84596101-b7312480-ae96-11ea-9ff9-f5c50aa6965f.JPG" width="750" height="500">
 </p>
 
-__ 4 단계: 빅데이터 분석 __
-주변 부흥 요인 총 10가지(공원,관광명소,교통,쇼핑,술집,음식점 등)와 리뷰와의 관계를 다중 선형회귀분석을 진행한다.
+#### 4 단계: 빅데이터 분석 
+#### 주변 부흥 요인 총 10가지(공원,관광명소,교통,쇼핑,술집,음식점 등)와 리뷰와의 관계를 다중 선형회귀분석을 진행한다.
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/84518639-f7b06700-ad0b-11ea-8439-b3946369ff03.JPG" width="750" height="350">
 </p>
