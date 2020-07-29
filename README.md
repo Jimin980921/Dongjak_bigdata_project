@@ -68,3 +68,6 @@ __5 단계:__ 동작구 주변요소와 빅데이터분석결과와 비교
 * pdf: 결과발표자료
 
 
+[네이버 쇼핑 리뷰 크롤링 프로젝트](https://github.com/Jimin980921/text_mining)  
+[유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)
+
