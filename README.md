@@ -11,6 +11,7 @@ __1 단계:__'대한민국 구석구석 관광지' 목록 크롤링(인기순으
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width=30%>
 </p>  
+
 [문화유산지모음](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%A7%80%EB%AA%A8%EC%9D%8C_final.txt)  
 <br>
 <br>
