@@ -9,7 +9,7 @@ __빅데이터 분석을 통해 문화유산 관광지 주변 부흥 요인을 �
 ## 개발 단계  
 __1 단계:__'대한민국 구석구석 관광지' 목록 크롤링(인기순으로 정렬 후, 상위 1000곳 저장)  
 
-[문화유산지모음](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%A7%80%EB%AA%A8%EC%9D%8C_final.txt)  
+[txt](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%A7%80%EB%AA%A8%EC%9D%8C_final.txt)  
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width=30%>
 </p>  
@@ -54,7 +54,8 @@ __4 단계:__ 빅데이터 분석
 
 --------------------------------------------------------------------------------------------------
 
-## 분석 결과(https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/Analysis.xlsx)  
+## 분석 결과  
+[csv] (https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/Analysis.xlsx)  
 __활성화에 영향을 미치는 주변 3가지요소[교통,숙소,리뷰] 요소 비교__  
 => 전체적으로 교통 편의성은 상위 문화유산지의 평균치이지만, 숙박시설의 보충이 필요, 술집의 갯수는 3배이상이므로 단속이 필요
 <p align="center"> 
