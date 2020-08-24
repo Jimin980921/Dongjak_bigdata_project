@@ -66,6 +66,7 @@ __활성화에 영향을 미치는 주변 3가지요소[교통,숙소,리뷰] �
 <br>
 
 
-[네이버 쇼핑 리뷰 크롤링 프로젝트](https://github.com/Jimin980921/text_mining)  
-[유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)
+- 유사 프로젝트  
+   - [네이버 쇼핑 리뷰 크롤링 프로젝트](https://github.com/Jimin980921/text_mining)  
+   - [유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)
 
