@@ -56,6 +56,7 @@ __4 단계:__ 빅데이터 분석
 
 ## 분석 결과  
 [csv] (https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/Analysis.xlsx)  
+
 __활성화에 영향을 미치는 주변 3가지요소[교통,숙소,리뷰] 요소 비교__  
 => 전체적으로 교통 편의성은 상위 문화유산지의 평균치이지만, 숙박시설의 보충이 필요, 술집의 갯수는 3배이상이므로 단속이 필요
 <p align="center"> 
