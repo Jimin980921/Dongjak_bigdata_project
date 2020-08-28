@@ -19,6 +19,9 @@ __1 단계:__'대한민국 구석구석 관광지' 목록 크롤링(인기순으
 
 __2 단계:__ '문화유산지명'+'주변'+ [음식점, 숙박, 대중교통, 공원, 술집 등] 자동 검색 ('주변'의 기준은 반경 2km이내)   
 각 문화유산지의 리뷰수, 주변 [음식점, 숙박, 대중교통, 공원, 술집 등] 크롤링(크기: __약 11MB__) 
+
+   - [문화유산지 주변시설](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/full_data(raw_data).csv)  
+   - [문화유산지 주변시설 리뷰수](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/full_review(raw_data).csv)  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57060127/84516870-617b4180-ad09-11ea-83a3-76ed008f1de7.JPG" width=40%>
 </p>
