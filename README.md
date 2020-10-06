@@ -1,23 +1,13 @@
 # 2020 동작구 빅데이터 정책 연구 공모전 기획안(2020.03.16~05.01)  
 ![공모전 포스터](https://user-images.githubusercontent.com/57060127/78499818-d7a17c00-778d-11ea-8e32-f5acd57de15f.jpg)  
-__프로젝트 목적__ : __동작구 여가/문화 유적지 활성화 정책 제안__  
-'문화유산'은 그 나라의 역사와 문화를 반영하고 있는 공간  
-5000년의 역사를 자랑하는 대한민국에는 가치있는 역사 관광지가 매우 많음   
-=> 빅데이터 분석을 통해 문화유산 관광지 주변 부흥 요인을 밝혀 동작구에 있는 문화유적지 활성화에 기여할수 있음  
 <br>
+
 
 (자세한 설명: [발표 pdf](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/%EB%8F%99%EC%9E%91%EA%B5%AC%202020%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EB%B6%84%EC%84%9D%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf))  
 
 -----------------------------------------------------------------------------------------------------------------
-## 개발 단계   
-__1 단계:__'대한민국 구석구석 관광지' 목록 크롤링(인기순으로 정렬 후, 인기순으로 저장)  
-
-   - [문화유산지모음](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%A7%80%EB%AA%A8%EC%9D%8C.txt)  
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84516317-95099c00-ad08-11ea-8081-51b2c587bc84.JPG" width=30%>
-</p>  
-<br>
-<br>
+## 프로젝트 개요  
+<img src="https://user-images.githubusercontent.com/57060127/95219399-4be9d480-0830-11eb-83e5-d55c9c5e7560.JPG">
 
 
 __2 단계:__ '문화유산지명'+'주변'+ [음식점, 숙박, 대중교통, 공원, 술집 등] 자동 검색 ('주변'의 기준은 반경 2km이내)   
