@@ -8,18 +8,28 @@
 -----------------------------------------------------------------------------------------------------------------
 ## 프로젝트 개요  
 <img src="https://user-images.githubusercontent.com/57060127/95219399-4be9d480-0830-11eb-83e5-d55c9c5e7560.JPG">
-
-
-__2 단계:__ '문화유산지명'+'주변'+ [음식점, 숙박, 대중교통, 공원, 술집 등] 자동 검색 ('주변'의 기준은 반경 2km이내)   
-각 문화유산지의 리뷰수, 주변 [음식점, 숙박, 대중교통, 공원, 술집 등] 크롤링(크기: __약 11MB__) 
-
-   - [문화유산지 주변시설](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/full_data(raw_data).csv)  
-   - [문화유산지 주변시설 리뷰수](https://github.com/Jimin980921/Dongjak_bigdata_project/blob/master/data/full_review(raw_data).csv)  
-<p align="center">
-<img src="https://user-images.githubusercontent.com/57060127/84516870-617b4180-ad09-11ea-83a3-76ed008f1de7.JPG" width=40%>
-</p>
+<img src="https://user-images.githubusercontent.com/57060127/95219408-4db39800-0830-11eb-812c-92bcf99dfda2.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219412-4ee4c500-0830-11eb-8413-a0ae9e021c4d.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219414-4ee4c500-0830-11eb-8129-35caca930826.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219416-4f7d5b80-0830-11eb-8a8b-9b471ad5fab0.JPG">
 <br>
+
+
+## 빅데이터 수집  
+<img src="https://user-images.githubusercontent.com/57060127/95219774-bdc21e00-0830-11eb-96a6-6b806565d579.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219782-bf8be180-0830-11eb-9402-dd963a1b51eb.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219784-c0247800-0830-11eb-8104-b0dc75c8941b.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219781-bef34b00-0830-11eb-9b0d-6b361acfcff5.JPG">
+<img src="https://user-images.githubusercontent.com/57060127/95219783-c0247800-0830-11eb-8447-98f35b87f6fa.JPG">
 <br>
+
+
+
+## 빅데이터 분석  
+
+## 빅데이터 분석결과  
+
+## 결론 및 정책제안  
 
 
 
