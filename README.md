@@ -25,6 +25,7 @@
 ## 빅데이터 분석  
 #### 빅데이터 전처리  
 <img src="https://user-images.githubusercontent.com/57060127/95220334-522c8080-0831-11eb-801b-144daf0e60ca.JPG" width=90%>  
+
 #### 상관분석 & 회귀분석  
 <img src="https://user-images.githubusercontent.com/57060127/95220409-65d7e700-0831-11eb-9304-8654068e43c3.JPG" width=90%>
 <img src="https://user-images.githubusercontent.com/57060127/95220391-63758d00-0831-11eb-86a0-9591df1a3f0d.JPG" width=90%>
