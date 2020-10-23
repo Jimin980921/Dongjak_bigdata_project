@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/57060127/95219414-4ee4c500-0830-11eb-8129-35caca930826.JPG" width=90%>
 <img src="https://user-images.githubusercontent.com/57060127/95219416-4f7d5b80-0830-11eb-8a8b-9b471ad5fab0.JPG" width=90%>
 <br>
-
+ 
 
 ## 빅데이터 수집  
 <img src="https://user-images.githubusercontent.com/57060127/95219774-bdc21e00-0830-11eb-96a6-6b806565d579.JPG" width=90%>
