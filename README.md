@@ -2,7 +2,7 @@
 ![공모전 포스터](https://user-images.githubusercontent.com/57060127/78499818-d7a17c00-778d-11ea-8e32-f5acd57de15f.jpg)   
   
 -----------------------------------------------------------------------------------------------------------------
-## 프로젝트 개요  
+## 프로젝트 개요   
 <img src="https://user-images.githubusercontent.com/57060127/95219399-4be9d480-0830-11eb-83e5-d55c9c5e7560.JPG" width=90%>
 <img src="https://user-images.githubusercontent.com/57060127/95219408-4db39800-0830-11eb-812c-92bcf99dfda2.JPG" width=90%>
 <img src="https://user-images.githubusercontent.com/57060127/95219412-4ee4c500-0830-11eb-8413-a0ae9e021c4d.JPG" width=90%>
