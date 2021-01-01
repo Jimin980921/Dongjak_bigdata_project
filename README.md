@@ -43,8 +43,6 @@
 <img src="https://user-images.githubusercontent.com/57060127/95220889-e565b600-0831-11eb-84bb-e602f0e52ecb.JPG" width=90%>
 <br>
 
------------------------------------------------------------------------------------------
-
 - 유사 프로젝트  
    - [네이버 쇼핑 리뷰 크롤링 프로젝트](https://github.com/Jimin980921/text_mining)  
    - [유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)
