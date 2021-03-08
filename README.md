@@ -33,7 +33,6 @@
 
 #### 상관분석 & 회귀분석  
 <img src="https://user-images.githubusercontent.com/57060127/95220409-65d7e700-0831-11eb-9304-8654068e43c3.JPG" width=90%>
-<img src="https://user-images.githubusercontent.com/57060127/95220391-63758d00-0831-11eb-86a0-9591df1a3f0d.JPG" width=90%>
 <img src="https://user-images.githubusercontent.com/57060127/95220406-64a6ba00-0831-11eb-9d39-b84623fe10ee.JPG" width=90%>
 <img src="https://user-images.githubusercontent.com/57060127/95220886-e4cd1f80-0831-11eb-9f3d-fcebf66b8a2e.JPG" width=90%>
 <br>
